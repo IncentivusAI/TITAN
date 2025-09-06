@@ -1,0 +1,14 @@
+torch
+transformers===6.25.2
+tokenizers
+datasets
+peft
+lion-pytorch
+matplotlib
+wandb
+loguru
+nvitop
+bitsandbytes
+scipy
+scikit-learn
+evaluate
