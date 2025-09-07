@@ -9,7 +9,7 @@ You can grab the Incentivus optimizer directly through pip:
 To build Incentivus from the repository:
 
 > bash  
-> git clone git@github.com:zhuhanqing/Incentivus.git  
+> git clone 
 > cd Incentivus  
 > pip install -e .  
 
