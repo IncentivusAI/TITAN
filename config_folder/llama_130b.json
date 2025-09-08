@@ -1,0 +1,25 @@
+{
+    "model_path": "/home/sgugger/tmp/ict/ict-13b/",
+    "network_design": [
+      "LlamaForCausalLM"
+    ],
+    "start_token_id": 1,
+    "end_token_id": 2,
+    "activation": "silu",
+    "embedding_dim": 5120,
+    "init_range": 0.02,
+    "ffn_dim": 13824,
+    "max_positions": 2048,
+    "context_size": 2048,
+    "model_kind": "llama",
+    "attention_heads": 40,
+    "layer_count": 40,
+    "pad_id": 0,
+    "norm_tolerance": 1e-06,
+    "share_embeddings": false,
+    "tensor_precision": "float16",
+    "transformer_version": "4.28.0.dev0",
+    "cache_usage": true,
+    "token_limit": 32000,
+    "organization": "ICT"
+}
