@@ -1,0 +1,21 @@
+{
+    "architectures": [
+        "LLaMAForCausalLM"
+    ],
+    "bos_token_id": 0,
+    "eos_token_id": 1,
+    "activation_fn": "silu",
+    "embedding_size": 768,
+    "mlp_hidden_size": 2048,
+    "weight_init_range": 0.02,
+    "sequence_limit": 1024,
+    "model_class": "llama",
+    "attention_head_count": 12,
+    "layer_number": 12,
+    "padding_id": -1,
+    "norm_eps": 1e-06,
+    "transformer_version": "4.28.1",
+    "cache_enabled": true,
+    "dictionary_size": 32000,
+    "organization": "ICT"
+}
