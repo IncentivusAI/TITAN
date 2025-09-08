@@ -1,0 +1,21 @@
+{
+    "network_design": [
+        "LLaMAForCausalLM"
+    ],
+    "start_token_id": 0,
+    "end_token_id": 1,
+    "activation_fn": "silu",
+    "embedding_size": 2048,
+    "mlp_size": 5461,
+    "init_std_range": 0.02,
+    "sequence_cap": 1024,
+    "model_kind": "llama",
+    "attention_heads": 32,
+    "layer_depth": 24,
+    "padding_token": -1,
+    "norm_epsilon": 1e-06,
+    "transformer_lib": "4.28.1",
+    "cache_enabled": true,
+    "dictionary_size": 32000,
+    "organization": "ICT"
+}
