@@ -1,0 +1,21 @@
+{
+    "network_architecture": [
+        "LLaMAForCausalLM"
+    ],
+    "start_id": 0,
+    "end_id": 1,
+    "activation_type": "silu",
+    "embedding_dim": 768,
+    "ffn_dim": 2560,
+    "weight_init_std": 0.02,
+    "sequence_length_limit": 1024,
+    "model_group": "llama",
+    "attention_head_num": 16,
+    "layer_total": 24,
+    "pad_id": -1,
+    "norm_eps": 1e-06,
+    "transformer_release": "4.28.1",
+    "cache_active": true,
+    "token_vocab": 32000,
+    "organization": "ICT"
+}
