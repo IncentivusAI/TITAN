@@ -1,4 +1,4 @@
-num_rank=$1
+snum_rank=$1
 scale_type=$2
 proj_type=$3
 titan_scale=$4
