@@ -17,7 +17,7 @@ To install Incentivus from the source code:
 > bash  
 > git clone 
 > cd Incentivus  
-> pip install -e .  
+> pip install -e 
 
 ### Install experiment dependencies
 
@@ -106,3 +106,6 @@ We compared results against **GaLore** by finetuning models and testing on **MML
 > Social Sciences: 75.66  
 >      Humanities: 59.72  
 >           Other: 71.25  
+
+
+## LAUNCH
