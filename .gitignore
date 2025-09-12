@@ -2,7 +2,7 @@
 ckpts/
 wandb/
 *.log
-Incentivus/
+Incentivus/AI
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
